@@ -44,8 +44,6 @@
 	<script>
 		var map = L.map('map', {
 			crs: L.CRS.Simple,
-			zoomAnimation: false,
-			fadeAnimation: false,
 			keepBuffer: 32
 		});
 
